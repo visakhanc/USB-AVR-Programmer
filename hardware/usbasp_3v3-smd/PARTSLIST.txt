@@ -1,0 +1,33 @@
+Partlist
+
+Exported from USBasp_SMD.brd at 13-Dec-15 10:19 AM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value            Package     Library               Position (inch)       Orientation
+
+C1       4u7              E2,5-5      rcl                   (0.13 0.885)          R90
+C2       22uF             E2,5-5      rcl                   (0.345 0.885)         R90
+C3       100n             C1206       rcl                   (0.695 0.875)         R90
+C4       22p              C1206       rcl                   (0.93 0.085)          R180
+C5       22p              C1206       rcl                   (1.275 0.08)          R0
+D1       3V6              DIODE-ZENER SparkFun-DiscreteSemi (0.48 0.21)           R270
+D2       3V6              DIODE-ZENER SparkFun-DiscreteSemi (0.48 0.575)          R90
+GREEN    green            LED-1206    SparkFun-LED          (0.86 0.83)           R0
+JP1      3V3_SEL          1X03        SparkFun-Connectors   (0.585 0.895)         R270
+R1       68               M1206       rcl                   (0.58 0.16)           R270
+R2       68               M1206       rcl                   (0.68 0.16)           R90
+R3       2k2              M1206       rcl                   (0.58 0.36)           R90
+R4       1k               M1206       rcl                   (1.07 0.925)          R0
+R5       1k               M1206       rcl                   (0.86 0.925)          R180
+R6       10k              M1206       rcl                   (0.68 0.36)           R90
+RED      red              LED-1206    SparkFun-LED          (1.075 0.83)          R180
+SELF     Self Programming 1X02        SparkFun-Connectors   (0.69 0.525)          R90
+U1       MEGA8-AI         TQFP32-08   atmel                 (0.975 0.56)          R90
+U2       LM1117           SOT223      SparkFun-PowerIC      (0.22 0.635)          R270
+VTARG    Supply Target    1X02        SparkFun-Connectors   (1.25 0.92)           R0
+X1       USBSMD           USB-MINIB   SparkFun-Connectors   (0.235 0.25)          R0
+X2       ISP              ML10L       con-harting-ml        (1.385 0.6)           R270
+Y1       12MHz            HC49UP      SparkFun-FreqCtrl     (1.12 0.235)          R180
